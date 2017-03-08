@@ -1,5 +1,5 @@
-Read the File
-Write the File
+✓ Read the File
+✓ Write the File
 Still to do: weird double s thing: §
 
 © 2017 OKCPython
